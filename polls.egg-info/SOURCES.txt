@@ -1,0 +1,11 @@
+setup.py
+polls/__init__.py
+polls/asgi.py
+polls/settings.py
+polls/urls.py
+polls/wsgi.py
+polls.egg-info/PKG-INFO
+polls.egg-info/SOURCES.txt
+polls.egg-info/dependency_links.txt
+polls.egg-info/requires.txt
+polls.egg-info/top_level.txt
