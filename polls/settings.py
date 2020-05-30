@@ -25,7 +25,7 @@ SECRET_KEY = "rj=23n%=6qa1dp6d1gx8cya-3ypgi!x(5e+ft_2&@*4()$csca"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["fierce-hamlet-35856.herokuapp.com",]
 
 
 # Application definition
